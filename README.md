@@ -1,0 +1,1 @@
+Created a virtual voice assistant using Python that responds to voice commands to help manage daily tasks such as setting reminders, opening applications, and answering questions—making everyday routines more efficient and hands-free.
